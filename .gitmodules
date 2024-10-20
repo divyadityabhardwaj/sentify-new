@@ -1,0 +1,3 @@
+[submodule "sentify-frontend"]
+	path = sentify-frontend
+	url = https://github.com/divyadityabhardwaj/sentify-frontend
